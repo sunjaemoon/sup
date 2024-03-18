@@ -1,0 +1,16 @@
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\bin\Debug\net7.0-windows\Ankieta.exe
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\bin\Debug\net7.0-windows\Ankieta.deps.json
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\bin\Debug\net7.0-windows\Ankieta.runtimeconfig.json
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\bin\Debug\net7.0-windows\Ankieta.dll
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\bin\Debug\net7.0-windows\Ankieta.pdb
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.Form1.resources
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.csproj.GenerateResource.cache
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.AssemblyInfoInputs.cache
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.AssemblyInfo.cs
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.csproj.CoreCompileInputs.cache
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.dll
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\refint\Ankieta.dll
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.pdb
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\Ankieta.genruntimeconfig.cache
+C:\Users\SuperStudent-PL\Desktop\IO\Ankieta\Ankieta\obj\Debug\net7.0-windows\ref\Ankieta.dll

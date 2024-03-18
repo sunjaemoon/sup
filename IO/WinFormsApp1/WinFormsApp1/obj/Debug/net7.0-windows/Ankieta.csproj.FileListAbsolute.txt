@@ -1,0 +1,6 @@
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Ankieta.csproj.GenerateResource.cache
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Ankieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Ankieta.AssemblyInfoInputs.cache
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Ankieta.AssemblyInfo.cs
+C:\Users\SuperStudent-PL\Desktop\IO\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\Ankieta.csproj.CoreCompileInputs.cache
